@@ -1,0 +1,1068 @@
+1522234341547	geckodriver	INFO	Listening on 127.0.0.1:46823
+1522234342733	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522234346084	Marionette	INFO	Enabled via --marionette
+1522234351879	Marionette	INFO	Listening on port 41391
+1522234351996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522234467079	geckodriver	INFO	Listening on 127.0.0.1:53539
+1522234468146	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522234469144	Marionette	INFO	Enabled via --marionette
+1522234472896	Marionette	INFO	Listening on port 33111
+1522234472975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://wiki.elhacker.net/, line 434: ReferenceError: sites is not defined
+JavaScript error: http://wiki.elhacker.net/, line 439: ReferenceError: sites is not defined
+JavaScript error: http://wiki.elhacker.net/, line 446: ReferenceError: gsites is not defined
+JavaScript error: http://wiki.elhacker.net/, line 449: ReferenceError: JOT_setupNav is not defined
+JavaScript error: http://wiki.elhacker.net/, line 473: ReferenceError: JOT_insertAnalyticsCode is not defined
+JavaScript error: http://wiki.elhacker.net/, line 477: ReferenceError: gsites is not defined
+JavaScript error: http://wiki.elhacker.net/, line 483: ReferenceError: JOT_insertTranslateCode is not defined
+JavaScript error: http://wiki.elhacker.net/, line 342: ReferenceError: gsites is not defined
+JavaScript error: http://wiki.elhacker.net/, line 509: ReferenceError: JOT_setupPostRenderingManager is not defined
+1522234646372	geckodriver	INFO	Listening on 127.0.0.1:36137
+1522234647447	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522234648827	Marionette	INFO	Enabled via --marionette
+1522234651824	Marionette	INFO	Listening on port 33927
+1522234651877	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12849, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 12849, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1522235022450	geckodriver	INFO	Listening on 127.0.0.1:38323
+1522235023525	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522235024537	Marionette	INFO	Enabled via --marionette
+1522235028263	Marionette	INFO	Listening on port 35077
+1522235028355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522235904729	geckodriver	INFO	Listening on 127.0.0.1:35991
+1522235905807	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522235907407	Marionette	INFO	Enabled via --marionette
+1522235915266	Marionette	INFO	Listening on port 34069
+1522235916348	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14233, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1522303486353	geckodriver	INFO	Listening on 127.0.0.1:56845
+1522303487463	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522303488539	Marionette	INFO	Enabled via --marionette
+1522303492089	Marionette	INFO	Listening on port 37699
+1522303492181	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5894, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1522303655375	geckodriver	INFO	Listening on 127.0.0.1:51243
+1522303656446	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522303657194	Marionette	INFO	Enabled via --marionette
+1522303660261	Marionette	INFO	Listening on port 34305
+1522303660360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522303777996	geckodriver	INFO	Listening on 127.0.0.1:50035
+1522303779063	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522303779951	Marionette	INFO	Enabled via --marionette
+1522303783618	Marionette	INFO	Listening on port 42987
+1522303783700	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6437, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1522303961013	geckodriver	INFO	Listening on 127.0.0.1:42443
+1522303962077	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522303962828	Marionette	INFO	Enabled via --marionette
+1522303965719	Marionette	INFO	Listening on port 33887
+1522303965795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522304276912	geckodriver	INFO	Listening on 127.0.0.1:55771
+1522304277979	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522304278760	Marionette	INFO	Enabled via --marionette
+1522304281824	Marionette	INFO	Listening on port 42741
+1522304281901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522304451442	geckodriver	INFO	Listening on 127.0.0.1:47385
+1522304452510	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522304455019	Marionette	INFO	Enabled via --marionette
+1522304458320	Marionette	INFO	Listening on port 42455
+1522304458329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522304827941	geckodriver	INFO	Listening on 127.0.0.1:46055
+1522304829014	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522304829807	Marionette	INFO	Enabled via --marionette
+1522304832778	Marionette	INFO	Listening on port 34249
+1522304832833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522305094997	geckodriver	INFO	Listening on 127.0.0.1:58191
+1522305096065	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522305096998	Marionette	INFO	Enabled via --marionette
+1522305100083	Marionette	INFO	Listening on port 36857
+1522305100192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522305695383	geckodriver	INFO	Listening on 127.0.0.1:35805
+1522305696470	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522305697515	Marionette	INFO	Enabled via --marionette
+1522305700635	Marionette	INFO	Listening on port 40895
+1522305700691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522306112801	geckodriver	INFO	Listening on 127.0.0.1:45159
+1522306112984	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522306114844	Marionette	INFO	Enabled via --marionette
+1522306119433	Marionette	INFO	Listening on port 45321
+1522306120324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522306729092	geckodriver	INFO	Listening on 127.0.0.1:59611
+1522306730162	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522306731180	Marionette	INFO	Enabled via --marionette
+1522306735098	Marionette	INFO	Listening on port 32911
+1522306735179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522306931353	geckodriver	INFO	Listening on 127.0.0.1:36067
+1522306932455	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522306933439	Marionette	INFO	Enabled via --marionette
+1522306937580	Marionette	INFO	Listening on port 38707
+1522306937723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522307499706	geckodriver	INFO	Listening on 127.0.0.1:54313
+1522307499852	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522307501318	Marionette	INFO	Enabled via --marionette
+1522307504749	Marionette	INFO	Listening on port 44339
+1522307504772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522309936582	geckodriver	INFO	Listening on 127.0.0.1:39693
+1522309937649	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522309938479	Marionette	INFO	Enabled via --marionette
+1522309941549	Marionette	INFO	Listening on port 39133
+1522309941571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522310177727	geckodriver	INFO	Listening on 127.0.0.1:45539
+1522310178792	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522310179782	Marionette	INFO	Enabled via --marionette
+1522310182493	Marionette	INFO	Listening on port 45705
+1522310182520	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1522316597701	geckodriver	INFO	Listening on 127.0.0.1:38741
+1522316598771	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522316599521	Marionette	INFO	Enabled via --marionette
+1522316603060	Marionette	INFO	Listening on port 43155
+1522316603107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522317069319	geckodriver	INFO	Listening on 127.0.0.1:43107
+1522317070392	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522317071263	Marionette	INFO	Enabled via --marionette
+1522317074582	Marionette	INFO	Listening on port 39631
+1522317074610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522318612599	geckodriver	INFO	Listening on 127.0.0.1:55645
+1522318613664	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522318614927	Marionette	INFO	Enabled via --marionette
+1522318619741	Marionette	INFO	Listening on port 35353
+1522318619802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522318844568	geckodriver	INFO	Listening on 127.0.0.1:54457
+1522318845637	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522318847648	Marionette	INFO	Enabled via --marionette
+1522318851805	Marionette	INFO	Listening on port 42191
+1522318851865	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1522319051701	geckodriver	INFO	Listening on 127.0.0.1:52765
+1522319051795	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522319053625	Marionette	INFO	Enabled via --marionette
+1522319058036	Marionette	INFO	Listening on port 33627
+1522319058116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522319526578	geckodriver	INFO	Listening on 127.0.0.1:54799
+1522319526802	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522319530389	Marionette	INFO	Enabled via --marionette
+1522319545282	Marionette	INFO	Listening on port 46029
+1522319547619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522320047669	geckodriver	INFO	Listening on 127.0.0.1:60331
+1522320048943	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522320056449	Marionette	INFO	Enabled via --marionette
+1522320069893	Marionette	INFO	Listening on port 40777
+1522320069924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522321053454	geckodriver	INFO	Listening on 127.0.0.1:51179
+1522321055089	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522321061335	Marionette	INFO	Enabled via --marionette
+1522321069644	Marionette	INFO	Listening on port 38021
+1522321069829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522322805821	geckodriver	INFO	Listening on 127.0.0.1:33255
+1522322806890	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522322807660	Marionette	INFO	Enabled via --marionette
+1522322810991	Marionette	INFO	Listening on port 35309
+1522322811014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522322855948	geckodriver	INFO	Listening on 127.0.0.1:60819
+1522322857017	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522322857802	Marionette	INFO	Enabled via --marionette
+1522322860754	Marionette	INFO	Listening on port 35099
+1522322860835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522323243195	geckodriver	INFO	Listening on 127.0.0.1:53469
+1522323244361	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522323245497	Marionette	INFO	Enabled via --marionette
+1522323248129	Marionette	INFO	Listening on port 44913
+1522323248185	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1522324222880	geckodriver	INFO	Listening on 127.0.0.1:56509
+1522324223948	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522324225242	Marionette	INFO	Enabled via --marionette
+1522324227925	Marionette	INFO	Listening on port 40163
+1522324227968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1522324438636	geckodriver	INFO	Listening on 127.0.0.1:59611
+1522324439731	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522324440995	Marionette	INFO	Enabled via --marionette
+1522324444598	Marionette	INFO	Listening on port 39063
+1522324444649	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1522324751265	geckodriver	INFO	Listening on 127.0.0.1:44831
+1522324752328	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522324753112	Marionette	INFO	Enabled via --marionette
+1522324756044	Marionette	INFO	Listening on port 43415
+1522324756142	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1522324984555	geckodriver	INFO	Listening on 127.0.0.1:33645
+1522324985625	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522324986407	Marionette	INFO	Enabled via --marionette
+1522324989158	Marionette	INFO	Listening on port 33489
+1522324989240	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20222, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522325492130	geckodriver	INFO	Listening on 127.0.0.1:32801
+1522325493198	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522325494654	Marionette	INFO	Enabled via --marionette
+1522325497274	Marionette	INFO	Listening on port 36057
+1522325497319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522325744151	geckodriver	INFO	Listening on 127.0.0.1:45667
+1522325745218	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522325746008	Marionette	INFO	Enabled via --marionette
+1522325748936	Marionette	INFO	Listening on port 36149
+1522325749033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522325946559	geckodriver	INFO	Listening on 127.0.0.1:38961
+1522325947630	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522325948451	Marionette	INFO	Enabled via --marionette
+1522325952324	Marionette	INFO	Listening on port 36885
+1522325952350	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1522326395857	geckodriver	INFO	Listening on 127.0.0.1:58653
+1522326396915	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522326397933	Marionette	INFO	Enabled via --marionette
+1522326400595	Marionette	INFO	Listening on port 37275
+1522326400641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522330164772	geckodriver	INFO	Listening on 127.0.0.1:44839
+1522330164904	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522330166738	Marionette	INFO	Enabled via --marionette
+1522330170789	Marionette	INFO	Listening on port 46693
+1522330172846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522336283016	geckodriver	INFO	Listening on 127.0.0.1:44017
+1522336284191	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522336294396	Marionette	INFO	Enabled via --marionette
+1522336308363	Marionette	INFO	Listening on port 37989
+1522336308867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522336716655	geckodriver	INFO	Listening on 127.0.0.1:38491
+1522336716827	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522336724880	Marionette	INFO	Enabled via --marionette
+1522336737030	Marionette	INFO	Listening on port 37631
+1522336737654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522336999352	geckodriver	INFO	Listening on 127.0.0.1:43061
+1522336999598	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337006093	Marionette	INFO	Enabled via --marionette
+1522337017043	Marionette	INFO	Listening on port 36691
+1522337017174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522337168990	geckodriver	INFO	Listening on 127.0.0.1:40365
+1522337169213	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337174656	Marionette	INFO	Enabled via --marionette
+1522337188692	Marionette	INFO	Listening on port 38769
+1522337188833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522337361744	geckodriver	INFO	Listening on 127.0.0.1:49723
+1522337361952	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337364888	Marionette	INFO	Enabled via --marionette
+1522337376741	Marionette	INFO	Listening on port 38733
+1522337376867	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1522337494163	geckodriver	INFO	Listening on 127.0.0.1:55309
+1522337495202	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337505457	Marionette	INFO	Enabled via --marionette
+1522337528111	Marionette	INFO	Listening on port 34893
+1522337528459	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522337608604	geckodriver	INFO	Listening on 127.0.0.1:44749
+1522337608810	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337610595	Marionette	INFO	Enabled via --marionette
+1522337616070	Marionette	INFO	Listening on port 37987
+1522337616152	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://foro.elhacker.net
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522337748887	geckodriver	INFO	Listening on 127.0.0.1:43525
+1522337749959	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522337751385	Marionette	INFO	Enabled via --marionette
+1522337758479	Marionette	INFO	Listening on port 44573
+1522337758502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522338733168	geckodriver	INFO	Listening on 127.0.0.1:48187
+1522338734941	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522338742097	Marionette	INFO	Enabled via --marionette
+1522338750848	Marionette	INFO	Listening on port 35019
+1522338750885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522339043812	geckodriver	INFO	Listening on 127.0.0.1:37745
+1522339044029	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522339047947	Marionette	INFO	Enabled via --marionette
+1522339068108	Marionette	INFO	Listening on port 39403
+1522339074038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522339412585	geckodriver	INFO	Listening on 127.0.0.1:38209
+1522339413880	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522339429042	Marionette	INFO	Enabled via --marionette
+1522339438396	Marionette	INFO	Listening on port 37507
+1522339441499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1522341075381	geckodriver	INFO	Listening on 127.0.0.1:57273
+1522341075622	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522341081344	Marionette	INFO	Enabled via --marionette
+1522341089399	Marionette	INFO	Listening on port 33085
+1522341092514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522341242733	geckodriver	INFO	Listening on 127.0.0.1:37463
+1522341243821	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522341244711	Marionette	INFO	Enabled via --marionette
+1522341247474	Marionette	INFO	Listening on port 42059
+1522341247548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522392504522	geckodriver	INFO	Listening on 127.0.0.1:41357
+1522392505641	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522392509288	Marionette	INFO	Enabled via --marionette
+1522392514533	Marionette	INFO	Listening on port 36775
+1522392515536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1522393249423	geckodriver	INFO	Listening on 127.0.0.1:44067
+1522393250492	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522393251328	Marionette	INFO	Enabled via --marionette
+1522393254331	Marionette	INFO	Listening on port 36243
+1522393254406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522394276714	geckodriver	INFO	Listening on 127.0.0.1:51775
+1522394277784	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522394278542	Marionette	INFO	Enabled via --marionette
+1522394281866	Marionette	INFO	Listening on port 38327
+1522394281900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522394993924	geckodriver	INFO	Listening on 127.0.0.1:55179
+1522394994990	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522394995993	Marionette	INFO	Enabled via --marionette
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:535:9
+
+JavaScript error: resource://shield-recipe-client/lib/ShieldRecipeClient.jsm, line 70: TypeError: log is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522395347150	geckodriver	INFO	Listening on 127.0.0.1:40487
+1522395348219	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522395349117	Marionette	INFO	Enabled via --marionette
+1522395355141	Marionette	INFO	Listening on port 42625
+1522395355254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522395553616	geckodriver	INFO	Listening on 127.0.0.1:52569
+1522395554683	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522395555458	Marionette	INFO	Enabled via --marionette
+1522395559046	Marionette	INFO	Listening on port 43757
+1522395559103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522395708862	geckodriver	INFO	Listening on 127.0.0.1:35877
+1522395709928	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522395710713	Marionette	INFO	Enabled via --marionette
+1522395714017	Marionette	INFO	Listening on port 41191
+1522395714045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522401545522	geckodriver	INFO	Listening on 127.0.0.1:46513
+1522401546644	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522401548657	Marionette	INFO	Enabled via --marionette
+1522401556475	Marionette	INFO	Listening on port 42391
+1522401556494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522402438109	geckodriver	INFO	Listening on 127.0.0.1:49753
+1522402439248	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522402548445	geckodriver	INFO	Listening on 127.0.0.1:41253
+1522402549542	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522402963983	geckodriver	INFO	Listening on 127.0.0.1:56761
+1522402965073	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522402968029	Marionette	INFO	Enabled via --marionette
+1522402973960	Marionette	INFO	Listening on port 44199
+1522402974044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522403794107	geckodriver	INFO	Listening on 127.0.0.1:38359
+1522403795207	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522403796494	Marionette	INFO	Enabled via --marionette
+1522403801559	Marionette	INFO	Listening on port 37529
+1522403801707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522406735313	geckodriver	INFO	Listening on 127.0.0.1:39603
+1522406736380	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522406737609	Marionette	INFO	Enabled via --marionette
+1522406742806	Marionette	INFO	Listening on port 43069
+1522406742900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522407976971	geckodriver	INFO	Listening on 127.0.0.1:52063
+1522407978071	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522407980110	Marionette	INFO	Enabled via --marionette
+1522407983964	Marionette	INFO	Listening on port 32941
+1522407984011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522408422112	geckodriver	INFO	Listening on 127.0.0.1:58785
+1522408423229	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522408424529	Marionette	INFO	Enabled via --marionette
+1522408428997	Marionette	INFO	Listening on port 36939
+1522408429076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522408903648	geckodriver	INFO	Listening on 127.0.0.1:51725
+1522408904757	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522408906937	Marionette	INFO	Enabled via --marionette
+1522408912163	Marionette	INFO	Listening on port 33603
+1522408912214	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8365, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+[Parent 6499, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4773, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 4773, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1522409266786	geckodriver	INFO	Listening on 127.0.0.1:34777
+1522409267928	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522409269616	Marionette	INFO	Enabled via --marionette
+1522409273846	Marionette	INFO	Listening on port 45757
+1522409273871	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8766, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1522410349710	geckodriver	INFO	Listening on 127.0.0.1:35843
+1522410351519	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522410354820	Marionette	INFO	Enabled via --marionette
+1522410360609	Marionette	INFO	Listening on port 34697
+1522410360734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522411174402	geckodriver	INFO	Listening on 127.0.0.1:48551
+1522411175467	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522411176401	Marionette	INFO	Enabled via --marionette
+1522411180416	Marionette	INFO	Listening on port 46015
+1522411180485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522411571926	geckodriver	INFO	Listening on 127.0.0.1:44773
+1522411573543	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522411587183	Marionette	INFO	Enabled via --marionette
+1522411598056	Marionette	INFO	Listening on port 36897
+1522411598501	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+1522417351712	geckodriver	INFO	Listening on 127.0.0.1:57267
+1522417352908	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522417356446	Marionette	INFO	Enabled via --marionette
+1522417362144	Marionette	INFO	Listening on port 38237
+1522417362175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522417768202	geckodriver	INFO	Listening on 127.0.0.1:49529
+1522417769302	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522417770794	Marionette	INFO	Enabled via --marionette
+1522417774080	Marionette	INFO	Listening on port 34705
+1522417774130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522418943072	geckodriver	INFO	Listening on 127.0.0.1:52263
+1522418944172	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522418945279	Marionette	INFO	Enabled via --marionette
+1522418948571	Marionette	INFO	Listening on port 38085
+1522418948608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522420782717	geckodriver	INFO	Listening on 127.0.0.1:60189
+1522420783815	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522420784904	Marionette	INFO	Enabled via --marionette
+1522420788143	Marionette	INFO	Listening on port 34235
+1522420788233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522421019902	geckodriver	INFO	Listening on 127.0.0.1:53165
+1522421020999	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522421022992	Marionette	INFO	Enabled via --marionette
+1522421026643	Marionette	INFO	Listening on port 32873
+1522421026722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522646226234	geckodriver	INFO	Listening on 127.0.0.1:46709
+1522646227350	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522646231187	Marionette	INFO	Enabled via --marionette
+1522646236658	Marionette	INFO	Listening on port 36611
+1522646238347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/recaptcha/api2/v1522045847408/recaptcha__en.js, line 388: Error: reCAPTCHA has already been rendered in this element
+1522646365754	geckodriver	INFO	Listening on 127.0.0.1:38201
+1522646366823	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522646367780	Marionette	INFO	Enabled via --marionette
+1522646371160	Marionette	INFO	Listening on port 41489
+1522646371240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=https%3A%2F%2Fforo.elhacker.net, line 12: Error: Network error.
+1522647481691	geckodriver	INFO	Listening on 127.0.0.1:60205
+1522647482758	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522647483507	Marionette	INFO	Enabled via --marionette
+1522647486565	Marionette	INFO	Listening on port 41033
+1522647486587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522649328546	geckodriver	INFO	Listening on 127.0.0.1:55011
+1522649329609	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522649330400	Marionette	INFO	Enabled via --marionette
+1522649334569	Marionette	INFO	Listening on port 36959
+1522649334630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522650202279	geckodriver	INFO	Listening on 127.0.0.1:35073
+1522650203348	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522650204121	Marionette	INFO	Enabled via --marionette
+1522650207071	Marionette	INFO	Listening on port 41983
+1522650207166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522650978160	geckodriver	INFO	Listening on 127.0.0.1:39463
+1522650978238	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522650979789	Marionette	INFO	Enabled via --marionette
+1522650983144	Marionette	INFO	Listening on port 35041
+1522650983157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522651431510	geckodriver	INFO	Listening on 127.0.0.1:60939
+1522651432568	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522651433814	Marionette	INFO	Enabled via --marionette
+1522651437391	Marionette	INFO	Listening on port 33713
+1522651437489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522652800027	geckodriver	INFO	Listening on 127.0.0.1:38641
+1522652801122	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522652802283	Marionette	INFO	Enabled via --marionette
+1522652806083	Marionette	INFO	Listening on port 37037
+1522652806184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522660908631	geckodriver	INFO	Listening on 127.0.0.1:39893
+1522660908878	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522660914713	Marionette	INFO	Enabled via --marionette
+1522660922897	Marionette	INFO	Listening on port 46611
+1522660923941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522662622261	geckodriver	INFO	Listening on 127.0.0.1:57999
+1522662623439	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522662629767	Marionette	INFO	Enabled via --marionette
+1522662656946	Marionette	INFO	Listening on port 37463
+1522662658512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522663246598	geckodriver	INFO	Listening on 127.0.0.1:48767
+1522663247849	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522663276565	Marionette	INFO	Enabled via --marionette
+1522663301682	Marionette	INFO	Listening on port 34579
+1522663303916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522663408698	geckodriver	INFO	Listening on 127.0.0.1:59845
+1522663408943	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522663411644	Marionette	INFO	Enabled via --marionette
+1522663418827	Marionette	INFO	Listening on port 41207
+1522663418908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522663794210	geckodriver	INFO	Listening on 127.0.0.1:57459
+1522663795436	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522663796644	Marionette	INFO	Enabled via --marionette
+1522663800847	Marionette	INFO	Listening on port 35829
+1522663800875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522664011954	geckodriver	INFO	Listening on 127.0.0.1:52575
+1522664013165	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1522664014992	Marionette	INFO	Enabled via --marionette
+1522664019488	Marionette	INFO	Listening on port 40111
+1522664019511	Marionette	WARN	TLS certificate errors will be ignored for this session
+ExceptionHandler::GenerateDump cloned child 27254
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 13975, Gecko_IOThread] WARNING: waitpid failed pid:14037 errno:10: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/base/process_util_posix.cc, line 279
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1523343167142	geckodriver	INFO	Listening on 127.0.0.1:47029
+1523343168251	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1523343171577	Marionette	INFO	Enabled via --marionette
+1523343176856	Marionette	INFO	Listening on port 40177
+1523343176955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523343591889	geckodriver	INFO	Listening on 127.0.0.1:34899
+1523343592957	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1523343594205	Marionette	INFO	Enabled via --marionette
+1523343597466	Marionette	INFO	Listening on port 44313
+1523343597494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523520132567	geckodriver	INFO	Listening on 127.0.0.1:40221
+1523520133851	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1523520136312	Marionette	INFO	Enabled via --marionette
+1523520143275	Marionette	INFO	Listening on port 38047
+1523520143410	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://crimez.cc
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1523531062234	geckodriver	INFO	Listening on 127.0.0.1:45165
+1523531063455	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1523531065877	Marionette	INFO	Enabled via --marionette
+1523531071940	Marionette	INFO	Listening on port 44109
+1523531072638	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x100037,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1523533790324	geckodriver	INFO	Listening on 127.0.0.1:42859
+1523533790541	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1523533793172	Marionette	INFO	Enabled via --marionette
+1523533798703	Marionette	INFO	Listening on port 40281
+1523533798798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524121462630	geckodriver	INFO	Listening on 127.0.0.1:53041
+1524121463806	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524121467781	Marionette	INFO	Enabled via --marionette
+1524121474519	Marionette	INFO	Listening on port 40147
+1524121475012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524121883261	geckodriver	INFO	Listening on 127.0.0.1:45907
+1524121884386	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524121885989	Marionette	INFO	Enabled via --marionette
+1524121890467	Marionette	INFO	Listening on port 43735
+1524121890556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524122068525	geckodriver	INFO	Listening on 127.0.0.1:36447
+1524122069683	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524122071458	Marionette	INFO	Enabled via --marionette
+1524122076132	Marionette	INFO	Listening on port 41259
+1524122076236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524122225250	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1524122318013	geckodriver	INFO	Listening on 127.0.0.1:41845
+1524122319117	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524122320636	Marionette	INFO	Enabled via --marionette
+1524122324746	Marionette	INFO	Listening on port 38909
+1524122324851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524149141427	geckodriver	INFO	Listening on 127.0.0.1:39899
+1524149142584	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524149149128	Marionette	INFO	Enabled via --marionette
+1524149160260	Marionette	INFO	Listening on port 40155
+1524149160770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524736496955	geckodriver	INFO	Listening on 127.0.0.1:52613
+1524736498071	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524736501700	Marionette	INFO	Enabled via --marionette
+1524736507800	Marionette	INFO	Listening on port 35103
+1524736507914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524736929892	geckodriver	INFO	Listening on 127.0.0.1:39733
+1524736930967	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524736931803	Marionette	INFO	Enabled via --marionette
+1524736934786	Marionette	INFO	Listening on port 33381
+1524736934886	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524737324116	geckodriver	INFO	Listening on 127.0.0.1:34407
+1524737325185	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524737326010	Marionette	INFO	Enabled via --marionette
+1524737328997	Marionette	INFO	Listening on port 34809
+1524737329108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524743426636	geckodriver	INFO	Listening on 127.0.0.1:54369
+1524743427752	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1524743430619	Marionette	INFO	Enabled via --marionette
+1524743438973	Marionette	INFO	Listening on port 40757
+1524743439070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525849065695	geckodriver	INFO	Listening on 127.0.0.1:38479
+1525849066796	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1525849070588	Marionette	INFO	Enabled via --marionette
+1525849077018	Marionette	INFO	Listening on port 36221
+1525849077124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526035764974	geckodriver	INFO	Listening on 127.0.0.1:47729
+1526035766086	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526035769658	Marionette	INFO	Enabled via --marionette
+1526035775828	Marionette	INFO	Listening on port 33149
+1526035775952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526035861659	geckodriver	INFO	Listening on 127.0.0.1:58113
+1526035862760	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526035863862	Marionette	INFO	Enabled via --marionette
+1526035868084	Marionette	INFO	Listening on port 46735
+1526035868102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526105905474	geckodriver	INFO	Listening on 127.0.0.1:40273
+1526105906814	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526105912624	Marionette	INFO	Enabled via --marionette
+1526105920490	Marionette	INFO	Listening on port 42851
+1526105920592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526105958822	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1526108349527	geckodriver	INFO	Listening on 127.0.0.1:46025
+1526108350593	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526108351742	Marionette	INFO	Enabled via --marionette
+1526108355396	Marionette	INFO	Listening on port 39655
+1526108355418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526108402500	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1526383183859	geckodriver	INFO	Listening on 127.0.0.1:52777
+1526383185035	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526383188822	Marionette	INFO	Enabled via --marionette
+1526383195376	Marionette	INFO	Listening on port 42715
+1526383195388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526384779490	geckodriver	INFO	Listening on 127.0.0.1:56381
+1526384779564	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526384780916	Marionette	INFO	Enabled via --marionette
+1526384784412	Marionette	INFO	Listening on port 44429
+1526384784480	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526550016457	geckodriver	INFO	Listening on 127.0.0.1:43551
+1526550017588	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1526550020874	Marionette	INFO	Enabled via --marionette
+1526550026284	Marionette	INFO	Listening on port 44859
+1526550026372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript error: https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.YrtA5yEj3Q0.O/m=client/rt=j/sv=1/d=1/ed=1/am=QQE/rs=AGLTcCN0sMuxpka3R31qPm4lRzkEwQAp8Q/cb=gapi.loaded_0, line 1: TypeError: gapi.loaded_0 is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-116135304-1, line 69: unreachable code after return statement
+[Child 31949, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527586747880	geckodriver	INFO	Listening on 127.0.0.1:41487
+1530085930494	geckodriver	INFO	Listening on 127.0.0.1:50899
+1530085931699	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530085950644	Marionette	INFO	Listening on port 37523
+1530085950690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530086120485	geckodriver	INFO	Listening on 127.0.0.1:33379
+1530086121570	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530086133549	Marionette	INFO	Listening on port 44263
+1530086133610	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16011, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16011, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530086489831	geckodriver	INFO	Listening on 127.0.0.1:53275
+1530086490900	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530086495338	Marionette	INFO	Listening on port 37053
+1530086495418	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://youhack.ru
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1530091653693	geckodriver	INFO	Listening on 127.0.0.1:43241
+1530091653841	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530091662270	Marionette	INFO	Listening on port 37455
+1530091662308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530092606617	geckodriver	INFO	Listening on 127.0.0.1:47705
+1530092606710	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530092615386	Marionette	INFO	Listening on port 39743
+1530092615452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530093457219	geckodriver	INFO	Listening on 127.0.0.1:35361
+1530093458291	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530093466495	Marionette	INFO	Listening on port 41071
+1530093466523	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20191, Chrome_ChildThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20191, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20191, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20191, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530095358668	geckodriver	INFO	Listening on 127.0.0.1:34987
+1530095359743	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530095368374	Marionette	INFO	Listening on port 39183
+1530095368475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530105477550	geckodriver	INFO	Listening on 127.0.0.1:47769
+1530105477906	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530105527287	Marionette	INFO	Listening on port 36089
+1530105528821	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26525, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530268393507	geckodriver	INFO	Listening on 127.0.0.1:52517
+1530268394680	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530268405448	Marionette	INFO	Listening on port 34987
+1530268405805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530268533985	geckodriver	INFO	Listening on 127.0.0.1:60847
+1530268535060	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530268540143	Marionette	INFO	Listening on port 39987
+1530268540194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530269248162	geckodriver	INFO	Listening on 127.0.0.1:51413
+1530269249515	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530269256739	Marionette	INFO	Listening on port 45305
+1530269256750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530269331365	geckodriver	INFO	Listening on 127.0.0.1:54741
+1530269332453	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530269338232	Marionette	INFO	Listening on port 41253
+1530269338290	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 768, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 768\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:768:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:792:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:796:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1624:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 768, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1627, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1627\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1627:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1627, column: 0"
+1530272920138	geckodriver	INFO	Listening on 127.0.0.1:44963
+1530272920334	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530272934658	Marionette	INFO	Listening on port 39541
+1530272934735	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18819, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18819, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18819, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530273007105	geckodriver	INFO	Listening on 127.0.0.1:53101
+1530273008190	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530273013349	Marionette	INFO	Listening on port 39057
+1530273013423	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19069, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19069, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530273507614	geckodriver	INFO	Listening on 127.0.0.1:43029
+1530273508738	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530273514185	Marionette	INFO	Listening on port 37379
+1530273514269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530273589929	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1530273642113	geckodriver	INFO	Listening on 127.0.0.1:42999
+1530273643196	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530273648572	Marionette	INFO	Listening on port 32803
+1530273648628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530273688144	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: https://www.mpgh.net/forum/, line 343: ReferenceError: grabElement is not defined
+1530273780816	geckodriver	INFO	Listening on 127.0.0.1:39297
+1530273781908	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530273789064	Marionette	INFO	Listening on port 37589
+1530273789117	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19901, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19867, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19867, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530274098155	geckodriver	INFO	Listening on 127.0.0.1:45147
+1530274098266	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1530274109911	Marionette	INFO	Listening on port 43713
+1530274110013	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20664, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20664, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

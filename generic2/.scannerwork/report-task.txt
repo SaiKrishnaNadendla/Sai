@@ -1,0 +1,6 @@
+projectKey=Sai:generic
+serverUrl=http://localhost:9000
+serverVersion=6.7.4.38452
+dashboardUrl=http://localhost:9000/dashboard/index/Sai:generic
+ceTaskId=AWTaQGDrEHNiamnCoSfY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTaQGDrEHNiamnCoSfY
